@@ -1,2 +1,2 @@
 # javaBasics
-Beginner
+Just beginner things that i learn daily
